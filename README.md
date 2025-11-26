@@ -1,4 +1,4 @@
-# ML Lab Projects
+# ML for Data Science Projects
 
 ## Project 1: Wholesale Customer Spending Analysis
 
